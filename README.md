@@ -1,7 +1,9 @@
-# Readme pour Helle World
+# Readme pour Hello World
 
 > Un «Bloc quote» se commence par le caractère >
 
+# Ce projet me sert également de test de compréhension pour git
+Lien <http://www-cs-students.stanford.edu/~blynn/gitmagic>
 
-### Le test de Marco 
-Un petit test pour vérifier que que je peux modifier le projet. --mcodutti
+
+Ajout pour v1
