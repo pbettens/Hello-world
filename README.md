@@ -7,3 +7,4 @@ Lien <http://www-cs-students.stanford.edu/~blynn/gitmagic>
 
 
 Ajout pour v1
+Ajout pour v2
