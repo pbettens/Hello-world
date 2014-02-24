@@ -1,16 +1,43 @@
-# Readme pour Hello World
+# Hello World
 
-> Un «Bloc quote» se commence par le caractère >
+*Ce readme peut être plus joli chez
+[documentup](http://documentup.com/pbettens/hello-world)*
 
-# Ce projet me sert également de test de compréhension pour git
-Lien <http://www-cs-students.stanford.edu/~blynn/gitmagic>
+Ce dépot est mon dépot de test de *git* et *github*. En ce sens, il ne fait rien
+d'autre que de recenser mes différents essais … 
+
+C'est une bonne pratique de faire des messages de commit **long** mais
+respectant la **règle des 50/72**.
+
+> **Règle 50/72**  
+> Le titre du commit n'exède pas 50 caractères et le détail est composé de
+> lignes de 72 caractères maxmimum … ce qui donnera des *logs* et des messages
+> plus clair.
+
+##Divers
+
+* Un [article sur mon blog][blog-git] au sujet de git et mes slides de
+présentation; [git en 5 slides][pdf1] et [git en 5 slides « advanced »][pdf2]
+* [DocumentUp](http://documentup.com) permet de mettre en forme un fichier
+markdown
 
 
-Ajout pour v1
-Ajout pour v2
-Ajout v2 a disparu après git checkout -b branch1 HEAD~1, j'ajoute pour le merge
-Add a file for branch "branch"
+
+##Documentation
+
+* gitmagic, très bonne documentation et introduction à git
+[lien](http://www-cs-students.stanford.edu/~blynn/gitmagic)
 
 
-Add a comment après checkout vers master. Le fichier file-branch a disparu. Je
-vis le récupérer avec le merge. 
+##Contact
+
+Pierre Bettens (pbt) <pbettens@heb.be>
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)]
+(https://flattr.com/submit/auto?user_id=pinkilla&url=https://github.com/pbettens/Hello-world&title=Hello
+World&language=&tags=github&category=software)
+
+
+[blog-git]: http://namok.be/blog/?post/2014/01/31/5slides-git
+[pdf1]: http://namok.be/public/documents/5slides/in5slides-git.pdf
+[pdf2]: http://namok.be/public/documents/5slides/in5slides-git-advanced.pdf
