@@ -15,6 +15,7 @@ respectant la **règle des 50/72**.
 
 * Un [article sur mon blog][blog-git] au sujet de git et mes slides de
 présentation; [git en 5 slides][pdf1] et [git en 5 slides « advanced »][pdf2]
+* [Un lien interne](other/one.md)
 
 ## Documentation
 
