@@ -1,35 +1,28 @@
 # Hello World
 
-*Ce readme peut être plus joli chez
-[documentup](http://documentup.com/pbettens/hello-world)*
 
-Ce dépot est mon dépot de test de *git* et *github*. En ce sens, il ne fait rien
-d'autre que de recenser mes différents essais … 
+Ce dépôt est mon dépôt de test de *git* et *github*. En ce sens, il ne fait rien d'autre que de recenser mes différents essais… 
 
 C'est une bonne pratique de faire des messages de commit **long** mais
 respectant la **règle des 50/72**.
 
 > **Règle 50/72**  
-> Le titre du commit n'exède pas 50 caractères et le détail est composé de
-> lignes de 72 caractères maxmimum … ce qui donnera des *logs* et des messages
+> Le titre du commit n'excède pas 50 caractères et le détail est composé de
+> lignes de 72 caractères maximum… ce qui donnera des *logs* et des messages
 > plus clair.
 
-##Divers
+## Divers
 
 * Un [article sur mon blog][blog-git] au sujet de git et mes slides de
 présentation; [git en 5 slides][pdf1] et [git en 5 slides « advanced »][pdf2]
-* [DocumentUp](http://documentup.com) permet de mettre en forme un fichier
-markdown
 
-
-
-##Documentation
+## Documentation
 
 * gitmagic, très bonne documentation et introduction à git
 [lien](http://www-cs-students.stanford.edu/~blynn/gitmagic)
 
 
-##Contact
+## Contact
 
 Pierre Bettens (pbt) <pbettens@heb.be>
 
