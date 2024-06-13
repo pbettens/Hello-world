@@ -24,10 +24,7 @@ présentation; [git en 5 slides][pdf1] et [git en 5 slides « advanced »][pdf2]
 
 ## Contact
 
-Pierre Bettens (pbt) <pbettens@heb.be>
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=pinkilla&url=https://github.com/pbettens/Hello-world&title=Hello
-World&language=&tags=github&category=software)
+Pierre Bettens (pbt) <pbettens@he2b.be>
 
 
 [blog-git]: http://namok.be/blog/?post/2014/01/31/5slides-git
